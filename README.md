@@ -43,5 +43,5 @@ My script then uses this score to classify the sentiment:
 ## Future Improvements
 Given more time, I would love to expand on this project in a few ways:
 *   **Build a Web Interface:** Create a simple front-end with Flask or Django so anyone can use the analyzer from their web browser.
-*   **Train a Custom Model:** Use a dataset of labeled text (like movie reviews) to train a more specialized sentiment analysis model.
+*   **Train a Custom Model:** Use a dataset of labeled text (like movie reviews) (product reviews)to train a more specialized sentiment analysis model.
 *   **Analyze Larger Datasets:** Adapt the tool to analyze sentiment from a file (like a CSV of tweets) instead of just single sentences.
