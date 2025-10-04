@@ -20,11 +20,14 @@ Make sure you have Python 3 installed on your system.
     If you're using Git, you can clone the repository to get a local copy.
 
 2.  **Install the necessary library:**
-    This project depends on the `TextBlob` library. You can install it using pip:
+    This project depends on the `TextBlob` library. 
+    You can install it using pip:
     ```
     pip install textblob
     ```
+    ```
     python3 -m pip install textblob
+    ```
 
 ## How to Use the Program
 Once the installation is complete, you can run the script from your terminal:
